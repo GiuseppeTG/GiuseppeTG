@@ -4,5 +4,5 @@
 
 
 
--  Take a look at my personal [portfolio](https://github.com/GiuseppeTG) (🏗️ under construction).
+-  Take a look at my personal [portfolio](https://portfolio-giuseppe.herokuapp.com/)
 
